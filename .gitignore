@@ -1,0 +1,8 @@
+.DS_Store
+/build/
+*.zip
+*.dmg
+/AppIcon.iconset/
+/vendor/m1ddc/.objects/
+/vendor/m1ddc/m1ddc
+/vendor/m1ddc/library/
